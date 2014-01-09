@@ -1,0 +1,11 @@
+{
+	"name": "angular-todo",
+	"version": "0.0.1",
+	"description": "Simple Angular TODO app based in MEAN stack",
+	"main": "server.js",
+	"author": "Carlos Azaustre <cazaustre@gmail.com>",
+	"dependencies": {
+		"express": "~3.4.4",
+		"mongoose": "~3.6.2"
+	}
+}
